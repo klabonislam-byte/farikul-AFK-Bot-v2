@@ -8,7 +8,7 @@
   "server": {
     "ip": "TokenSmpNEX.aternos.me",
     "port": 30512,
-    "version": "1.21.1"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,

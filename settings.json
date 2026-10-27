@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TokenSmpNEX.aternos.me",
-    "port": 30512,
+    "ip": "Povmc.aternos.me",
+    "port": 22237,
     "version": "26.2"
   },
   "position": {
